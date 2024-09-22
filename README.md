@@ -1,5 +1,5 @@
 # Awesome Alternatives in Rust
-[![github workflow status](https://img.shields.io/github/actions/workflow/status/TaKO8Ki/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/actions) [![stakes.social](https://badge.devprotocol.xyz/0xC65ca20B670aa65fDd05DEBAFBF02D3387F316Cd/descriptive)](https://stakes.social/0xC65ca20B670aa65fDd05DEBAFBF02D3387F316Cd)
+[![github workflow status](https://img.shields.io/github/actions/workflow/status/TaKO8Ki/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/actions)
 
 A curated list of replacements for existing software written in Rust.
 
@@ -89,6 +89,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### diff
 
 * [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+* [difftastic](https://github.com/Wilfred/difftastic) - A structural diff that understands syntax
 
 #### dig
 
@@ -225,7 +226,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 
-#### [jq](https://github.com/stedolan/jq)
+#### [jq](https://github.com/jqlang/jq)
 
 * [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool built with Rust 🦀
 
@@ -233,9 +234,13 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust 🦀
 
+#### [Toggl Track](https://github.com/toggl/toggldesktop)
+
+* [Furtherance](https://github.com/lakoliu/Furtherance) - Time-tracking app written in Rust
+
 ### Web
 
-#### [Reddit](https://www.reddit.com/)
+#### Reddit
 
 * [Lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 
