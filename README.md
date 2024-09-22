@@ -123,7 +123,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### ls
 
 * [eza](https://github.com/eza-community/eza) - A replacement for 'ls'
-* [lsd](https://github.com/Peltoche/lsd) - An ls with a lot of pretty colors and awesome icons
+* [lsd](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons
 * [nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 
 #### [nvm](https://github.com/nvm-sh/nvm)
