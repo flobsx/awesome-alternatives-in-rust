@@ -21,6 +21,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Web](#web)
 - [Development tools](#development-tools)
   - [Command runners](#command-runners)
+  - [Compilers](#compilers)
   - [Linters](#linters)
   - [Runtimes](#runtimes)
 - [Libraries](#libraries)
@@ -260,6 +261,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### make
 
 * [just](https://github.com/casey/just) - A command runner and partial replacement for `make`
+
+### Compilers
+
+#### [TypeScript Compiler](https://github.com/microsoft/TypeScript)
+
+* [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust
 
 ### Linters
 
