@@ -24,6 +24,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Linters](#linters)
 - [Libraries](#libraries)
   - [Email](#email)
+  - [MachineLearning](#machine-learning)
 
 ## Applications
 
@@ -282,3 +283,9 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [mjml](https://github.com/mjmlio/mjml)
 
 * [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
+
+### MachineLearning
+
+#### [PyTorch](https://github.com/pytorch/pytorch)
+
+* [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch
