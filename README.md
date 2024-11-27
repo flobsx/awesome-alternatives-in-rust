@@ -31,7 +31,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #### [runc](https://github.com/opencontainers/runc)
 
-* [youki](https://github.com/containers/youki) - An experimental container runtime written in Rust
+* [youki](https://github.com/youki-dev/youki) - An experimental container runtime written in Rust
 
 ### Games
 
@@ -63,7 +63,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### bc
 
 * [cpc](https://github.com/probablykasper/cpc) - Text calculator with support for units and conversion
-* [eva](https://github.com/NerdyPepper/eva) - a calculator REPL, similar to bc(1) 
+* [eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1) 
 
 #### cat
 
@@ -106,7 +106,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #### [fzf](https://github.com/junegunn/fzf)
 
-* [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+* [skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 
 #### [GNU coreutils](https://github.com/coreutils/coreutils)
 
@@ -116,7 +116,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 
-#### [httpie](https://github.com/httpie/httpie)
+#### [httpie](https://github.com/httpie/cli)
 
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
@@ -175,7 +175,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [tldr](https://github.com/tldr-pages/tldr)
 
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-* [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+* [tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 
 #### top
 
@@ -240,7 +240,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #### [Toggl Track](https://github.com/toggl/toggldesktop)
 
-* [Furtherance](https://github.com/lakoliu/Furtherance) - Time-tracking app written in Rust
+* [Furtherance](https://github.com/unobserved-io/Furtherance) - Time-tracking app written in Rust
 
 ### Web
 
