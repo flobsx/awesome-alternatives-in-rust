@@ -1,4 +1,5 @@
-# Awesome Alternatives in Rust
+# Awesome Alternatives written in Rust 🦀
+
 [![github workflow status](https://img.shields.io/github/actions/workflow/status/flobsx/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/flobsx/awesome-alternatives-in-rust/actions)
 
 A curated list of replacements for existing software written in Rust.
