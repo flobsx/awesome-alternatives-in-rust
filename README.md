@@ -76,7 +76,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
-#### [comm](http://www.maizure.org/projects/decoded-gnu-coreutils/comm.html)
+#### [comm](https://www.maizure.org/projects/decoded-gnu-coreutils/comm.html)
 * [samesame](https://gitlab.com/elbartus/samesame) - `samesame` lets you match lines from one file in another file similar to `comm(1)`.
 
 #### [coreboot](https://github.com/coreboot/coreboot)
