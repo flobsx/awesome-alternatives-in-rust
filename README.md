@@ -187,6 +187,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### top
 
 * [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+* [zenith](https://github.com/bvaisvil/zenith) - Option to zoom in and out
 * [ytop](https://github.com/cjbassi/ytop) (no longer maintained) - A TUI system monitor written in Rust
 
 #### uniq
