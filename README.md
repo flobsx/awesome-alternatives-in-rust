@@ -1,11 +1,11 @@
 # Awesome Alternatives in Rust
-[![github workflow status](https://img.shields.io/github/actions/workflow/status/TaKO8Ki/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/actions)
+[![github workflow status](https://img.shields.io/github/actions/workflow/status/flobsx/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/flobsx/awesome-alternatives-in-rust/actions)
 
 A curated list of replacements for existing software written in Rust.
 
 If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-I renamed the repository to "Awesome Alternatives in Rust". The original name was "Awesome Rewrite It In Rust". For more details, please refer to [this issue](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/issues/29).
+📣 This is forked from TaKO8Ki initial project as his project doesn't seem active right now. I keep his sponsor for his great work.
 
 ## Table of contents
 
