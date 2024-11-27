@@ -1,16 +1,18 @@
 # Awesome Alternatives in Rust
-[![github workflow status](https://img.shields.io/github/workflow/status/TaKO8Ki/awesome-alternatives-in-rust/CI/main)](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/actions)
+[![github workflow status](https://img.shields.io/github/actions/workflow/status/flobsx/awesome-alternatives-in-rust/ci.yml?branch=main)](https://github.com/flobsx/awesome-alternatives-in-rust/actions)
 
 A curated list of replacements for existing software written in Rust.
 
 If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-I renamed the repository to "Awesome Alternatives in Rust". The original name was "Awesome Rewrite It In Rust". For more details, please refer to [this issue](https://github.com/TaKO8Ki/awesome-alternatives-in-rust/issues/29).
+📣 This is forked from TaKO8Ki initial project as his project doesn't seem active right now. I keep his sponsor for his great work.
 
 ## Table of contents
 
 - [Applications](#applications)
   - [Container](#container)
+  - [Games](#games)
+  - [Performance](#performance)
   - [System tools](#system-tools)
   - [Terminal](#terminal)
   - [Text editors](#text-editors)
@@ -20,6 +22,8 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 - [Development tools](#development-tools)
   - [Command runners](#command-runners)
   - [Linters](#linters)
+- [Libraries](#libraries)
+  - [Email](#email)
 
 ## Applications
 
@@ -27,7 +31,19 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### [runc](https://github.com/opencontainers/runc)
 
-* [youki](https://github.com/utam0k/youki) - An experimental container runtime written in Rust
+* [youki](https://github.com/containers/youki) - An experimental container runtime written in Rust
+
+### Games
+
+#### [Stockfish](https://github.com/official-stockfish/Stockfish/)
+
+* [Pleco](https://github.com/pleco-rs/Pleco) - A Rust-based re-write of the Stockfish Chess Engine 
+
+### Performance
+
+#### [jMeter](https://github.com/apache/jmeter)
+
+* [drill](https://github.com/fcsonline/drill) - A HTTP load testing application written in Rust
 
 ### System tools
 
@@ -41,7 +57,13 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### bash/PowerShell/fish
 
+* [ion](https://github.com/redox-os/ion) - A modern shell developed for RedoxOS. But is still capable on \*nix platforms.
 * [nushell](https://github.com/nushell/nushell/) - An attractive structured shell
+
+#### bc
+
+* [cpc](https://github.com/probablykasper/cpc) - Text calculator with support for units and conversion
+* [eva](https://github.com/NerdyPepper/eva) - a calculator REPL, similar to bc(1) 
 
 #### cat
 
@@ -49,8 +71,11 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### [cloc](https://github.com/AlDanial/cloc)
 
-* [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 * [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+#### [coreboot](https://github.com/coreboot/coreboot)
+
+* [oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 
 #### cp
 
@@ -59,10 +84,12 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### cut
 
 * [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+* [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone
 
 #### diff
 
 * [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+* [difftastic](https://github.com/Wilfred/difftastic) - A structural diff that understands syntax
 
 #### dig
 
@@ -96,13 +123,17 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### ls
 
 * [exa](https://github.com/ogham/exa) - A replacement for 'ls'
-* [lsd](https://github.com/Peltoche/lsd) - An ls with a lot of pretty colors and awesome icons
+* [lsd](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons
 * [nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 
 #### [nvm](https://github.com/nvm-sh/nvm)
 
 * [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 * [volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+
+#### [Midnight Commander](https://github.com/MidnightCommander/mc)
+
+* [broot](https://github.com/Canop/broot) - A better way to navigate directories
 
 #### ps
 
@@ -111,6 +142,10 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### [rbenv](https://github.com/rbenv/rbenv)
 
 * [frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
+
+#### rename
+
+* [rnr](https://github.com/ismaelgv/rnr) - A command-line tool to batch rename files and directories
 
 #### rm
 
@@ -128,6 +163,10 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### sudo
 
 * [please](https://gitlab.com/edneville/please) - `sudo` like program with regex support written in rust
+
+#### sysctl
+
+* [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to `sysctl` with a terminal user interface
 
 #### time
 
@@ -147,11 +186,23 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line.
 
+#### xargs
+
+* [rargs](https://github.com/lotabout/rargs) - A kind of xargs + awk with pattern-matching support.
+
 #### [yay](https://github.com/Jguer/yay)
 
 * [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 
 ### Terminal
+
+#### [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
+
+* [starship](https://github.com/starship/starship) - ☄️🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+#### [termite](https://github.com/thestinger/termite)
+
+* [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 #### [tmux](https://github.com/tmux/tmux)
 
@@ -171,11 +222,11 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 ### Utilities
 
-#### [codemod](https://github.com/facebook/codemod)
+#### [codemod](https://github.com/facebookarchive/codemod)
 
 * [fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 
-#### [jq](https://github.com/stedolan/jq)
+#### [jq](https://github.com/jqlang/jq)
 
 * [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool built with Rust 🦀
 
@@ -185,21 +236,27 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### [Python](https://github.com/python/cpython)
 
-* [RustPython](https://rustpython.github.io) - A Python 3 interpreter written in Rust
+* [RustPython](https://github.com/RustPython/RustPython) - A Python 3 interpreter written in Rust
+
+#### [Toggl Track](https://github.com/toggl/toggldesktop)
+
+* [Furtherance](https://github.com/lakoliu/Furtherance) - Time-tracking app written in Rust
 
 ### Web
 
-#### [Reddit](https://www.reddit.com/)
+#### Reddit
 
-* [Lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust 
+* [Lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 
 #### [teddit](https://codeberg.org/teddit/teddit)
 
-* [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust 
+* [libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit written in Rust
 
 ## Development tools
 
 ### Command runners
+
+#### make
 
 * [just](https://github.com/casey/just) - A command runner and partial replacement for `make`
 
@@ -210,6 +267,18 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 * [deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 * [RSLint](https://github.com/rslint/rslint) - A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 
+#### [Prettier](https://github.com/prettier/prettier)
+
+* [dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
+
 #### [ShellCheck](https://github.com/koalaman/shellcheck)
 
 * [Shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
+
+## Libraries
+
+### Email
+
+#### [mjml](https://github.com/mjmlio/mjml)
+
+* [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
