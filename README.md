@@ -234,6 +234,10 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust 🦀
 
+#### [Python](https://github.com/python/cpython)
+
+* [RustPython](https://github.com/RustPython/RustPython) - A Python 3 interpreter written in Rust
+
 #### [Toggl Track](https://github.com/toggl/toggldesktop)
 
 * [Furtherance](https://github.com/lakoliu/Furtherance) - Time-tracking app written in Rust
