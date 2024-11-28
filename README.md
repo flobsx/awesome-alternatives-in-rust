@@ -28,6 +28,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Runtimes](#runtimes)
 - [Libraries](#libraries)
   - [Email](#email)
+  - [Message Queue](#message-queue)
 - [Productivity](#productivity)
   - [Project & Issue tracking](#project--issue-tracking)
 - [Machine Learning](#machine-learning)
@@ -344,6 +345,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [mjml](https://github.com/mjmlio/mjml)
 
 * [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
+
+### Message Queue
+
+#### [Apache RocketMQ](https://github.com/apache/rocketmq)
+
+* [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ Rust implementation. Faster safer and with lower memory usage.
 
 ## Productivity
 
