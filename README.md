@@ -195,6 +195,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #### [tldr](https://github.com/tldr-pages/tldr)
 
+* [intelli-shell](https://github.com/lasantosr/intelli-shell) - A bookmark storage for commands with label support
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 
