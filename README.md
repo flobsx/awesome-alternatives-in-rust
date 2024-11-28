@@ -230,7 +230,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [termite](https://github.com/thestinger/termite)
 
 * [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-* [WezTerm](https://wezfurlong.org/wezterm/index.html) - Powerful cross-platform terminal emulator and multiplexer implemented in Rust.
+* [WezTerm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer.
 
 #### [tmux](https://github.com/tmux/tmux)
 
