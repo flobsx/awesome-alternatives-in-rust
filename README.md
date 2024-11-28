@@ -305,7 +305,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #### [Flake8](https://github.com/PyCQA/flake8)
 
-* [ruff](https://beta.ruff.rs/docs/) - lint and fix 40x faster than flake8
+* [ruff](https://github.com/astral-sh/ruff) - lint and fix 40x faster than flake8
 
 ## Libraries
 
