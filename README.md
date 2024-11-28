@@ -24,6 +24,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Command runners](#command-runners)
   - [Compilers](#compilers)
   - [Linters](#linters)
+  - [Testing](#testing)
   - [Runtimes](#runtimes)
 - [Libraries](#libraries)
   - [Email](#email)
@@ -308,6 +309,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [ShellCheck](https://github.com/koalaman/shellcheck)
 
 * [Shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
+
+### Testing
+
+#### [RobotFramework](https://github.com/robotframework/robotframework)
+
+* [botwork](https://github.com/nitimis/botwork) - A single-binary, generic and open-source automation framework for acceptance testing, ATDD & RPA
 
 ### Runtimes
 
