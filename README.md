@@ -303,6 +303,10 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime 
 
+#### [Flake8](https://github.com/PyCQA/flake8)
+
+* [ruff](https://github.com/astral-sh/ruff) - lint and fix 40x faster than flake8
+
 ## Libraries
 
 ### Email
