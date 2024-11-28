@@ -348,7 +348,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Message Queue
 
-#### [rocketmq-rust](https://github.com/mxsm/rocketmq-rust)
+#### [Apache RocketMQ](https://github.com/apache/rocketmq)
 
 * [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ Rust implementation.Faster safer and with lower memory usage.
 
