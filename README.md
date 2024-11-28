@@ -24,10 +24,13 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Command runners](#command-runners)
   - [Compilers](#compilers)
   - [Linters](#linters)
+  - [Testing](#testing)
   - [Runtimes](#runtimes)
 - [Libraries](#libraries)
   - [Email](#email)
-  - [Machine Learning](#machine-learning)
+- [Productivity](#productivity)
+  - [Project & Issue tracking](#project--issue-tracking)
+- [Machine Learning](#machine-learning)
 
 ## Applications
 
@@ -42,6 +45,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [Stockfish](https://github.com/official-stockfish/Stockfish/)
 
 * [Pleco](https://github.com/pleco-rs/Pleco) - A Rust-based re-write of the Stockfish Chess Engine 
+
+### Observability
+
+#### [Elasticsearch](https://github.com/elastic/elasticsearch)
+
+* [Quickwit](https://github.com/quickwit-oss/quickwit) - 🔎 A cloud-native search engine built for logs written in Rust
 
 ### Performance
 
@@ -257,6 +266,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [Furtherance](https://github.com/unobserved-io/Furtherance) - Time-tracking app written in Rust
 
+### Text Search
+
+#### [lucene](https://github.com/apache/lucene)
+
+* [tantivy](https://github.com/quickwit-oss/tantivy) - 🐎 A horse-speed, full-text search engine library written in Rust
+
 ### Web
 
 #### Reddit
@@ -296,11 +311,21 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [Shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 
+### Testing
+
+#### [RobotFramework](https://github.com/robotframework/robotframework)
+
+* [botwork](https://github.com/nitimis/botwork) - A single-binary, generic and open-source automation framework for acceptance testing, ATDD & RPA
+
 ### Runtimes
 
 #### [Node.js](https://github.com/nodejs/node)
 
 * [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime 
+
+#### [Flake8](https://github.com/PyCQA/flake8)
+
+* [ruff](https://github.com/astral-sh/ruff) - lint and fix 40x faster than flake8
 
 ## Libraries
 
@@ -309,6 +334,15 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [mjml](https://github.com/mjmlio/mjml)
 
 * [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
+
+## Productivity
+
+### Project & Issue tracking
+
+### [Jira CLI](https://github.com/ankitpokhrel/jira-cli)
+
+* [Jirust](https://github.com/Code-Militia/jirust) - An engineer focused Jira TUI
+* [Jira Terminal](https://github.com/amritghimire/jira-terminal) - The application that can be used for personal usage to manage jira from terminal.
 
 ### Machine Learning
 
