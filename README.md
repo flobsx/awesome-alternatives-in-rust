@@ -110,6 +110,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### dig
 
 * [dog](https://github.com/ogham/dog) - A command-line DNS client.
+* [dqy](https://github.com/dandyvica/dqy) - A DNS query tool inspired by `dig`, `drill`, and `dog`.
 
 
 #### [dotenv](https://github.com/motdotla/dotenv)
