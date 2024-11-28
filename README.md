@@ -157,6 +157,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 * [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 
 #### [shred](https://linux.die.net/man/1/shred)
+
 * [shred-rust](https://github.com/JuanJMarques/shred-rust) - An alternative to `shred` for securely delete files with thread support for deleting multiple files
 
 #### strings
