@@ -226,7 +226,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### Vim
 
 * [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-* [helix[(https://helix-editor.com) - A post-modern text editor
+* [helix](https://github.com/helix-editor/helix) - A post-modern text editor
 
 ### Text processing
 
