@@ -230,6 +230,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [termite](https://github.com/thestinger/termite)
 
 * [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+* [WezTerm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer.
 
 #### [tmux](https://github.com/tmux/tmux)
 
@@ -240,7 +241,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### Vim
 
 * [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-* [helix](https://github.com/helix-editor/helix) - A post-modern text editor
+* [Helix](https://github.com/helix-editor/helix) - A post-modern text editor
 
 ### Text processing
 
