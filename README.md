@@ -28,7 +28,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Libraries](#libraries)
   - [Email](#email)
 - [Productivity](#productivity)
-  - [Project & Issue tracking](#project-issue-tracking)
+  - [Project & Issue tracking](#project--issue-tracking)
 - [Machine Learning](#machine-learning)
 
 ## Applications
