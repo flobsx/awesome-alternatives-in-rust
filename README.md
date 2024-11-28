@@ -45,6 +45,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [Pleco](https://github.com/pleco-rs/Pleco) - A Rust-based re-write of the Stockfish Chess Engine 
 
+### Observability
+
+#### [Elasticsearch](https://github.com/elastic/elasticsearch)
+
+* [Quickwit](https://github.com/quickwit-oss/quickwit) - 🔎 A cloud-native search engine built for logs written in Rust
+
 ### Performance
 
 #### [jMeter](https://github.com/apache/jmeter)
@@ -257,6 +263,12 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [Toggl Track](https://github.com/toggl/toggldesktop)
 
 * [Furtherance](https://github.com/unobserved-io/Furtherance) - Time-tracking app written in Rust
+
+### Text Search
+
+#### [lucene](https://github.com/apache/lucene)
+
+* [tantivy](https://github.com/quickwit-oss/tantivy) - 🐎 A horse-speed, full-text search engine library written in Rust
 
 ### Web
 
