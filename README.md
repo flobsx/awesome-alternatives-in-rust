@@ -27,7 +27,9 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
   - [Runtimes](#runtimes)
 - [Libraries](#libraries)
   - [Email](#email)
-  - [Machine Learning](#machine-learning)
+- [Productivity](#productivity)
+  - [Project & Issue tracking](#project--issue-tracking)
+- [Machine Learning](#machine-learning)
 
 ## Applications
 
@@ -312,6 +314,15 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 #### [mjml](https://github.com/mjmlio/mjml)
 
 * [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
+
+## Productivity
+
+### Project & Issue tracking
+
+### [Jira CLI](https://github.com/ankitpokhrel/jira-cli)
+
+* [Jirust](https://github.com/Code-Militia/jirust) - An engineer focused Jira TUI
+* [Jira Terminal](https://github.com/amritghimire/jira-terminal) - The application that can be used for personal usage to manage jira from terminal.
 
 ### Machine Learning
 
