@@ -317,7 +317,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### [Jira CLI](https://github.com/ankitpokhrel/jira-cli)
 
-* [Jirust](https://github.com/moali87/jirust) - An engineer focused Jira TUI
+* [Jirust](https://github.com/Code-Militia/jirust) - An engineer focused Jira TUI
 * [Jira Terminal](https://github.com/amritghimire/jira-terminal) - The application that can be used for personal usage to manage jira from terminal.
 
 ### Machine Learning
