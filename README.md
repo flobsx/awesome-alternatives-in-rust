@@ -177,7 +177,7 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 * [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 
-#### [shred](https://linux.die.net/man/1/shred)
+#### [shred](https://en.wikipedia.org/wiki/Shred_(Unix))
 
 * [shred-rust](https://github.com/JuanJMarques/shred-rust) - An alternative to `shred` for securely delete files with thread support for deleting multiple files
 
